@@ -1,0 +1,34 @@
+﻿user_id,first name,last name,phone,email address,gender,Age_Category,Birth date,Country Residence,Registration Date
+CUST-1,Danaí,Al hussain,123456789,abc@emil.com,Mrs,18-25,10-06-2021 18:59:2,Saudi Arabia,10-06-2021 18:59:2
+CUST-2,Nika,N,123456789,abc@emil.com,Mrs,26-35,10-06-2021 23:19:7,Azerbaijan,10-06-2021 23:19:7
+CUST-3,Tahereh,Mollari,123456789,abc@emil.com,Mrs,36-45,10-06-2021 17:38:36,Iran,10-06-2021 17:38:36
+CUST-4,Abdullah,Abdullah,123456789,abc@emil.com,Mr,26-35,10-06-2021 19:17:58,United Arab Emirates,10-06-2021 19:17:58
+CUST-5,Sharon,Sh,123456789,abc@emil.com,Mrs,26-35,10-06-2021 23:44:55,Kenya,10-06-2021 23:44:55
+CUST-6,Alya,Hamad,123456789,abc@emil.com,Mrs,26-35,10-06-2021 23:40:51,United Arab Emirates,10-06-2021 23:40:51
+CUST-7,Souad,Julie,123456789,abc@emil.com,Mrs,26-35,10-06-2021 18:20:37,Morocco,10-06-2021 18:20:37
+CUST-8,Miu,Miu,123456789,abc@emil.com,Mrs,36-45,10-06-2021 17:08:1,Vietnam,10-06-2021 17:08:1
+CUST-9,Janet,Abadi,123456789,abc@emil.com,Mrs,26-35,10-06-2021 20:13:16,Ethiopia,10-06-2021 20:13:16
+CUST-10,Moza,Saeed,123456789,abc@emil.com,Mrs,36-45,10-06-2021 19:00:59,United Arab Emirates,10-06-2021 19:00:59
+CUST-11,Jowhara,Alghamdi,123456789,abc@emil.com,Mrs,26-35,10-06-2021 19:15:28,Saudi Arabia,10-06-2021 19:15:28
+CUST-12,Seham,Alameddine,123456789,abc@emil.com,Mrs,36-45,10-06-2021 23:54:9,United States of America,10-06-2021 23:54:9
+CUST-13,Baldes,B,123456789,abc@emil.com,Mr,26-35,10-06-2021 23:31:0,Latvia,10-06-2021 23:31:0
+CUST-14,Jawaher,Ali,123456789,abc@emil.com,Mrs,26-35,10-06-2021 18:14:33,United Arab Emirates,10-06-2021 18:14:33
+CUST-15,Siba,Halawa,123456789,abc@emil.com,Mrs,36-45,10-06-2021 18:47:26,Jordan,10-06-2021 18:47:26
+CUST-16,Natacha,Y,123456789,abc@emil.com,Mrs,26-35,10-06-2021 16:58:30,Russia,10-06-2021 16:58:30
+CUST-17,Noura,Battayor,123456789,abc@emil.com,Mrs,36-45,10-06-2021 18:43:37,Saudi Arabia,10-06-2021 18:43:37
+CUST-18,Amina,A,123456789,abc@emil.com,Mrs,26-35,10-06-2021 23:42:21,United Arab Emirates,10-06-2021 23:42:21
+CUST-19,Ace,Foster,123456789,abc@emil.com,Mr,26-35,10-06-2021 19:38:44,United Arab Emirates,10-06-2021 19:38:44
+CUST-20,Lamia,Shadier,123456789,abc@emil.com,Mrs,46-60,10-06-2021 15:13:55,Saudi Arabia,10-06-2021 15:13:55
+CUST-21,Hind,Alhammadi,123456789,abc@emil.com,Mrs,36-45,10-06-2021 14:56:24,United Arab Emirates,10-06-2021 14:56:24
+CUST-22,Ahmed,Alshamsi,123456789,abc@emil.com,Mr,36-45,29-03-2021 09:58:42,United Arab Emirates,29-03-2021 09:58:42
+CUST-23,Kholood,Alshamsi,123456789,abc@emil.com,Mrs,36-45,10-06-2021 15:09:47,United Arab Emirates,10-06-2021 15:09:47
+CUST-24,Hanna,Haddad,123456789,abc@emil.com,Mrs,36-45,10-06-2021 09:28:2,,10-06-2021 09:28:2
+CUST-25,Amal,A,123456789,abc@emil.com,Mrs,36-45,29-03-2021 11:32:58,Morocco,29-03-2021 11:32:58
+CUST-26,Zari,Zari,123456789,abc@emil.com,Mr,26-35,10-06-2021 15:18:36,,10-06-2021 15:18:36
+CUST-27,Khalifa,Alfalasi,123456789,abc@emil.com,Mr,26-35,10-06-2021 14:33:16,United Arab Emirates,10-06-2021 14:33:16
+CUST-28,Adita,Komba,123456789,abc@emil.com,Mrs,26-35,10-06-2021 16:56:53,India,10-06-2021 16:56:53
+CUST-29,Moza,Khatan,123456789,abc@emil.com,Mrs,26-35,10-06-2021 15:57:54,United Arab Emirates,10-06-2021 15:57:54
+CUST-30,Ameena,Alaoui,123456789,abc@emil.com,Mrs,36-45,10-06-2021 14:56:14,Morocco,10-06-2021 14:56:14
+CUST-31,Juliet,Kebenei,123456789,abc@emil.com,Mrs,26-35,10-06-2021 15:41:7,Kenya,10-06-2021 15:41:7
+CUST-32,Ashley,Silva,123456789,abc@emil.com,Mrs,36-45,10-06-2021 15:02:23,United States of America,10-06-2021 15:02:23
+CUST-33,Rasha,Srour,123456789,abc@emil.com,Mrs,36-45,10-06-2021 16:33:13,Lebanon,10-06-2021 16:33:13
